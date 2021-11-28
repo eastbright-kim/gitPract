@@ -12,10 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        //branch commit
-        //branch commit 1
-        //barnch 2
-        //branch 3
+        //complete new branch
     }
 
 
